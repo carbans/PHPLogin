@@ -1,0 +1,7 @@
+PHPLogin
+========
+
+Advanced PHP Login System
+
+#PHP LOGIN SCRIPT
+###BETTER DESCRIPTION COMING SOON
