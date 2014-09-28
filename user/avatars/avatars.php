@@ -2,7 +2,7 @@
 
 $page = "Avatars";
 
-    require_once("http://elitekastdev.com/header.php");
+    require_once("http://WEBSITE/header.php");
 
 $email = $_GET['email'];
 $default = "default.png";
@@ -17,6 +17,6 @@ $grav_url = "http://gravatar.com/avatar/" . md5( strtolower( trim( $email ) ) ) 
 <!-- Stop coding here -->
 <?php
 
-    require_once("http://elitekastdev.com/footer.php");
+    require_once("http://WEBSITE/footer.php");
 
 ?>
